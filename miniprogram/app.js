@@ -18,7 +18,7 @@ App({
       wx.cloud.init({
         traceUser: true,
         // env: 'release-wifo3' // 测试环境
-        env: 'dandan-zdm86' // 正式环境
+        env: 'cloud1-3gt3blol8dd9ed47' // 正式环境
       })
     }
     // 获取手机信息以配置顶栏
