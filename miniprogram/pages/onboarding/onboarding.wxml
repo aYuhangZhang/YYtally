@@ -18,7 +18,7 @@
     </view>
     <view class="word">
       <view class="title"><text class="bold">重视隐私，</text>不利用、不追踪。</view>
-      <view class="description">单单记账永不获取用户隐私信息，给你最单纯的记账体验。</view>
+      <view class="description">洋阳随心记永不获取用户隐私信息，给你最单纯的记账体验。</view>
     </view>
   </view>
   <view class="content" wx:if="{{step === 3}}">
