@@ -6,8 +6,8 @@
   <view class="part">
     <view class="left">自言自语</view>
     <view class="right dandan" style="background-color: #B76FA0;">
-      <view class="title">很高兴能与你一起</view>
-      <text class="desc">继续坚持记账</text>
+      <view class="title">很久没有收入了 :( </view>
+      <text class="desc">很高兴能与你一起，继续坚持记账，度过难关。。。</text>
       <image class="pig" src="https://images.vrm.cn/2019/08/29/pig.png" style="width: 120rpx;height: 120rpx;"/>
     </view>
   </view>
@@ -54,7 +54,7 @@
       </view>
     </view>
   </view>
-  <view class="part" bindtap="copyLink">
+  <!-- <view class="part" bindtap="copyLink">
     <view class="left">源码</view>
     <view class="right dandan" style="background-color: #212529;">
       <view class="title">代码开源</view>
@@ -62,8 +62,8 @@
         <text>小程序在开源社区Github开源。对数据处理透明化。点我复制仓库链接，欢迎Star鼓励或贡献代码。</text>
       </view>
     </view>
-  </view>
-  <view class="part">
+  </view> -->
+  <!-- <view class="part">
     <view class="left">一杯奶茶？</view>
     <view class="right dandan" style="background-color: #FFB905;">
       <view class="title">开源不易，我会尽最大的努力保持单单干净无广告侵扰。</view>
@@ -81,9 +81,9 @@
         <view style="font-size: 20rpx;">ԅ(¯﹃¯ԅ)流口水</view>
       </view>
     </view>
-  </view>
-  <relate></relate>
-  <view>
+  </view> -->
+  <!-- <relate></relate> -->
+  <!-- <view>
     <image class="donate-arrow" src="https://7265-release-wifo3-1259814516.tcb.qcloud.la/thin-arrowheads-pointing-down.png?sign=cc067af49020cdc7912e08f5e4b17667&t=1619705906" mode="widthFix" binderror="" bindload=""></image>
     <image class="donate-img" src="https://7265-release-wifo3-1259814516.tcb.qcloud.la/thank-you.png?sign=1df3583959ab3b69840f85278941437f&t=1619705710" mode="widthFix" binderror="" bindload=""></image>
     <view class="text-center">
@@ -110,7 +110,7 @@
         <view>点击复制添加作者微信：Yi745285458</view>
       </view>
     </view>
-  </view>
+  </view> -->
   <view class="fill"></view>
 </view>
 <dialog visible="{{showAuthDialog}}" bind:closeDialog="closeDialog">
