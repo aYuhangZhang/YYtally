@@ -7,7 +7,7 @@
     </view>
     <view class="word">
       <view class="title"><text class="bold">很高兴</text>认识你！</view>
-      <view class="description">我会一直与你一起体验更好的记账工具。</view>
+      <view class="description">还记得上次发薪是什么时候吗？</view>
     </view>
   </view>
   <view class="content" wx:if="{{step === 2}}">
@@ -18,7 +18,7 @@
     </view>
     <view class="word">
       <view class="title"><text class="bold">重视隐私，</text>不利用、不追踪。</view>
-      <view class="description">洋阳随心记永不获取用户隐私信息，给你最单纯的记账体验。</view>
+      <view class="description">洋阳随心记 永不获取用户隐私信息，给你最单纯的记账体验。</view>
     </view>
   </view>
   <view class="content" wx:if="{{step === 3}}">
@@ -50,8 +50,8 @@
     class="cover"></image>
     </view>
     <view class="word">
-      <view class="title">持续更新。</view>
-      <view class="description">我们初衷是专注于功能和体验的记账工具，因此后续会持续更新更多功能，可一同期待！</view>
+      <view class="title">开源节流。</view>
+      <view class="description">过去事已过去了，未来不必预思量。活在当下！</view>
     </view>
   </view>
   <view class="content" wx:if="{{step === 6}}">
